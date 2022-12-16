@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+<table>
+  <caption>This is a table</caption>
+  <thead>
+    <th>This</th>
+    <th>is</th>
+    <th>a</th>
+    <th>table</th>
+  </thead>
+  <tbody>
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>
+</body>
